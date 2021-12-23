@@ -18,4 +18,4 @@ Link do desafio : [Profile Card- Frontend Mentor ](https://www.frontendmentor.io
 
 # Deploy
 
-[Veja o site](https://rebecca-nftcard.netlify.app/)
+[Veja o site](https://rebecca-frontendmentor-cardprofile.netlify.app/)
